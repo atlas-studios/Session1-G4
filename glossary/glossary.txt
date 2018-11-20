@@ -1005,3 +1005,5 @@
 镇西王	Western Garrison Liege Lord
 江麒麟	Jiang Qilin
 灰袍女子	The girl in grey robes
+六派三宗	six factions
+三宗六派	third factions
