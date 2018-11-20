@@ -2474,6 +2474,14 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“是谁？”虎王更是一声虎啸，搜寻这个没种的妖类。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="hui lin" changedate="20181120T132125Z" creationid="hui lin" creationdate="20181120T132125Z">
+        <seg>"Who goes there?" The tiger demon king screamed, looking for the unfamiliar race.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“是！”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180922T212501Z" creationid="Joey" creationdate="20180922T212501Z">
@@ -3376,8 +3384,8 @@ Jiang Yi recalled the sequence of events that had taken place in the morning. Hi
       <tuv lang="ZH-CN">
         <seg>“说得好！今日我们聚在这里不就是为了这个吗？管他是谁，杀出去为死去的同类报仇。”连胆子最小的兔王也站起来响应，兔族可是死得最多的。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="hui lin" changedate="20181120T123658Z" creationid="hui lin" creationdate="20181120T123658Z">
-        <seg>"Well said! Is this not the sole reason to why we all gathered here today? Whoever he is I do not care, just kill him to avenge our fellow comrades!" Even the timid rabbit demon king stood up and retorted. Their kind suffers the most deaths.</seg>
+      <tuv lang="EN-US" changeid="hui lin" changedate="20181120T132018Z" creationid="hui lin" creationdate="20181120T123658Z">
+        <seg>"Well said! Is this not the sole reason to why we all gathered here today? Whoever he is I do not care, just kill him to avenge our comrades!" Even the timid rabbit demon king stood up and retorted. Their kind suffered the most deaths.</seg>
       </tuv>
     </tu>
     <tu>
