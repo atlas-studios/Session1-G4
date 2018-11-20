@@ -648,8 +648,8 @@
       <tuv lang="ZH-CN">
         <seg>“各位妖族，近来此间发生的事，想必诸位心里有数。”虎族向来强悍，虎王第一个开口到是使众妖都安静了下来，“我们同属妖类，此等危机之下，我觉得各族应该抛去成见，同声连枝，共同解决眼下的问题。”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="hui lin" changedate="20181120T110227Z" creationid="hui lin" creationdate="20181120T105440Z">
-        <seg>"Attention everyone, I believe we all have something bothering us with regard to the the events happening recently." The tiger demons have always been strong, and the crowd went silent after the tiger demon king first spoke. "We fellow demons all wait for danger, and I feel that we should all put our prejudices aside. This way, we can all have a shared goal, to resolve our  plights together."</seg>
+      <tuv lang="EN-US" changeid="hui lin" changedate="20181120T131256Z" creationid="hui lin" creationdate="20181120T105440Z">
+        <seg>"Attention everyone, I believe we all have something bothering us regarding the events happening recently." The tiger demons have always been strong, and the crowd went silent after the tiger demon king first spoke. "We fellow demons all wait for danger, and I feel that we should all set our prejudices aside. This way, we can all have a shared goal, to resolve our  plights together."</seg>
       </tuv>
     </tu>
     <tu>
@@ -13627,6 +13627,14 @@ Regardless of whether Jiang Yi was only suited to practice the lowest level of m
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181110T055640Z" creationid="Joey" creationdate="20180811T192421Z">
         <seg>In the end what left him truly speechless was an old man in the inner part of the room, wearing a long brown robe with disheveled hair like a madman, standing around a cauldron and staring into it with his eyes wide open. As for the Jiang family collateral descendant who was normally in the Elixir Room helping, Jiang Song, he was not in the Elixir Room.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>群情激愤的浪潮里，突然出现了一个反对的声音，虽然声音不大，但成功引起了众妖的注意。呼喊声一停，所有妖的视线齐唰唰的刺了过去。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="hui lin" changedate="20181120T131121Z" creationid="hui lin" creationdate="20181120T131121Z">
+        <seg>From the crowd's chantings came a sudden unfamiliar voice. Although not loud, it has already gotten their attention.</seg>
       </tuv>
     </tu>
     <tu>
