@@ -608,8 +608,8 @@
       <tuv lang="ZH-CN">
         <seg>“各位妖族，近来此间发生的事，想必诸位心里有数。”虎族向来强悍，虎王第一个开口到是使众妖都安静了下来，“我们同属妖类，此等危机之下，我觉得各族应该抛去成见，同声连枝，共同解决眼下的问题。”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="hui lin" changedate="20181120T105839Z" creationid="hui lin" creationdate="20181120T105440Z">
-        <seg>"Attention everyone, I believe we all have something bothering us with regard to the the events happening recently." The tiger demons have always been strong, and the crowd went silent after the tiger demon king first spoke. "We fellow demons all wait for danger, and I feel that we should all put our prejudices aside. This way, we can all have a shared goal, to resolve our current plights together."</seg>
+      <tuv lang="EN-US" changeid="hui lin" changedate="20181120T110227Z" creationid="hui lin" creationdate="20181120T105440Z">
+        <seg>"Attention everyone, I believe we all have something bothering us with regard to the the events happening recently." The tiger demons have always been strong, and the crowd went silent after the tiger demon king first spoke. "We fellow demons all wait for danger, and I feel that we should all put our prejudices aside. This way, we can all have a shared goal, to resolve our  plights together."</seg>
       </tuv>
     </tu>
     <tu>
@@ -3346,6 +3346,14 @@ Jiang Yi recalled the sequence of events that had taken place in the morning. Hi
       </tuv>
       <tuv lang="EN-US" changeid="tianqi" changedate="20181024T174511Z" creationid="tianqi" creationdate="20181024T174511Z">
         <seg>"Could such a bizarre thing really happen? Is it due to the black essence force?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“这事还用猜吗？”虎王冷哼了一声，“除了六派三宗里那些修士，谁会干这种事。这些年我们被他宰杀的妖还少吗？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="hui lin" changedate="20181120T112646Z" creationid="hui lin" creationdate="20181120T112646Z">
+        <seg>"Do we still need to guess?" the tiger demon king groaned coldly. "No one else besides the monks from the six factions have been killing our demons all these years."</seg>
       </tuv>
     </tu>
     <tu>
