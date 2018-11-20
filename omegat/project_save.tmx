@@ -1178,6 +1178,14 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“唉！算了，我在这！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="hui lin" changedate="20181120T125242Z" creationid="hui lin" creationdate="20181120T125242Z">
+        <seg>"Sigh...forget it, I am over here!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“唉，我总是说不过你！不过爱好和平的我既然死到临头，也就没心情再打上一场了……”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20180825T005802Z" creationid="USER" creationdate="20180804T030624Z">
@@ -2254,6 +2262,14 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180807T152744Z" creationid="Joey" creationdate="20180807T152744Z">
         <seg>“I? What I?!”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“我在这，这里！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="hui lin" changedate="20181120T125308Z" creationid="hui lin" creationdate="20181120T125308Z">
+        <seg>"Here! I'm over here!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -3554,6 +3570,14 @@ Jiang Yi recalled the sequence of events that had taken place in the morning. Hi
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180916T100928Z" creationid="Joey" creationdate="20180916T100835Z">
         <seg>"This speed..." </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“这里这里……”那个声音再起，“左边左边，不对……过了过了，右边一点，错了，看这里，看这！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="hui lin" changedate="20181120T125510Z" creationid="hui lin" creationdate="20181120T125510Z">
+        <seg>"Over here, over here..." the voice said," To the left, to the left, no wrong...you went too far, to the right a bit, no wrong, look here, over here!" </seg>
       </tuv>
     </tu>
     <tu>
