@@ -270,6 +270,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“为了妖界……”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="hui lin" changedate="20181120T124544Z" creationid="hui lin" creationdate="20181120T124544Z">
+        <seg>"For the demon realm..."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“九天锁星阵！”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="cktal" changedate="20180815T063236Z" creationid="USER" creationdate="20180803T074825Z">
@@ -2388,8 +2396,8 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
       <tuv lang="ZH-CN">
         <seg>“族人的妖魂在上，我等誓报此仇。”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="hui lin" changedate="20181120T124517Z" creationid="hui lin" creationdate="20181120T124517Z">
-        <seg>"</seg>
+      <tuv lang="EN-US" changeid="hui lin" changedate="20181120T124822Z" creationid="hui lin" creationdate="20181120T124517Z">
+        <seg>"To the souls of the deceased demons, we will avenge you."</seg>
       </tuv>
     </tu>
     <tu>
@@ -3666,6 +3674,14 @@ Jiang Yi recalled the sequence of events that had taken place in the morning. Hi
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180917T111834Z" creationid="Joey" creationdate="20180917T111834Z">
         <seg>"Crawl! Crawl through it!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“铲除这些禽兽不如的人，还我妖界太平!”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="hui lin" changedate="20181120T124914Z" creationid="hui lin" creationdate="20181120T124724Z">
+        <seg>"Annihilate the merciless humans, and restore the demon realm's peace!"</seg>
       </tuv>
     </tu>
     <tu>
