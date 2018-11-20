@@ -1004,3 +1004,4 @@
 炼丹房	alchemy lab
 镇西王	Western Garrison Liege Lord
 江麒麟	Jiang Qilin
+灰袍女子	The girl in grey robes
