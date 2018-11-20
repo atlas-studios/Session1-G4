@@ -7303,6 +7303,14 @@ Two fingers stabbed forward towards his opponent's eyes like arrows.</seg>
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>小动物什么的——好麻烦啊！</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="hui lin" changedate="20181120T125904Z" creationid="hui lin" creationdate="20181120T125904Z">
+        <seg>These creatures--how annoying!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>小半个时辰之后，他安全抵达了武殿，在半路他运转了一丝元力在耳朵内，一路也都走小巷，确定没人跟踪他。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="tianqi" changedate="20181024T140337Z" creationid="tianqi" creationdate="20181024T140337Z">
@@ -12546,8 +12554,8 @@ At the moment of impact, that martial artist at the third stage of the Cast Trip
       <tuv lang="ZH-CN">
         <seg>满地妖尸，血流成河……</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="hui lin" changedate="20181120T125629Z" creationid="hui lin" creationdate="20181120T125629Z">
-        <seg>The ground, piled with the demons' corpses, blood slashed and splattered everywhere like a bloody field...</seg>
+      <tuv lang="EN-US" changeid="hui lin" changedate="20181120T125832Z" creationid="hui lin" creationdate="20181120T125629Z">
+        <seg>The ground, piled with the demons' corpses, blood splattered everywhere like a bloody field...</seg>
       </tuv>
     </tu>
     <tu>
