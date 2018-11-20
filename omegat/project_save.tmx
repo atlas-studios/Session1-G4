@@ -2386,6 +2386,14 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“族人的妖魂在上，我等誓报此仇。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="hui lin" changedate="20181120T124517Z" creationid="hui lin" creationdate="20181120T124517Z">
+        <seg>"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“时间，只要再给我一些时间，任何问题都不是问题了！”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180910T181611Z" creationid="USER" creationdate="20180813T055700Z">
@@ -2800,8 +2808,8 @@ Jiang Yi recalled the sequence of events that had taken place in the morning. Hi
       <tuv lang="ZH-CN">
         <seg>“没错，此仇不报，枉为妖！”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="hui lin" changedate="20181120T124149Z" creationid="hui lin" creationdate="20181120T124149Z">
-        <seg>"That's right, </seg>
+      <tuv lang="EN-US" changeid="hui lin" changedate="20181120T124531Z" creationid="hui lin" creationdate="20181120T124149Z">
+        <seg>"That's right, revenge or all is in vain!"</seg>
       </tuv>
     </tu>
     <tu>
