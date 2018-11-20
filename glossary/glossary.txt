@@ -1007,3 +1007,6 @@
 灰袍女子	The girl in grey robes
 六派三宗	six factions
 三宗六派	third factions
+鹰王	eagle demon king
+虎王	tiger demon king
+虎王	tiger demon king
