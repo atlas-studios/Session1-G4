@@ -584,8 +584,8 @@
       <tuv lang="ZH-CN">
         <seg>“你站住！”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="hui lin" changedate="20181121T135026Z" creationid="hui lin" creationdate="20181121T135026Z">
-        <seg>"</seg>
+      <tuv lang="EN-US" changeid="hui lin" changedate="20181121T143218Z" creationid="hui lin" creationdate="20181121T135026Z">
+        <seg>"You stay still!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -594,6 +594,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180926T062238Z" creationid="Joey" creationdate="20180926T062238Z">
         <seg>"You're wrong, Yi Jian!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“你！姑娘，快跑啊！她不是好人！”地上的人拼命想爬过来，却完全阻止不了芮糜的脚步，只能一声比一声大的让人快跑。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="hui lin" changedate="20181121T143151Z" creationid="hui lin" creationdate="20181121T143151Z">
+        <seg>"You! Quick, maiden, run away! She is not a good person!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -1447,6 +1455,14 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20180825T005655Z" creationid="USER" creationdate="20180803T131950Z">
         <seg>"Hmph! Fogey Nine-Yang, I haven't seen you for a few thousand years, yet you are still full of crap and as thick-skinned as ever!" the Netherworld King retorted coldly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“哼，跑得了吗？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="hui lin" changedate="20181121T143116Z" creationid="hui lin" creationdate="20181121T143116Z">
+        <seg>"Humph, can you run?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -2719,6 +2735,14 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
       </tuv>
       <tuv lang="EN-US" changeid="hui lin" changedate="20181120T143450Z" creationid="hui lin" creationdate="20181120T143450Z">
         <seg>"What I mean is that the things you all just said, about killing the cruel demon, the heartless person..." She sighed, smoothing her robe and lifting her head. With her dead-like composure, yet pointing at her nose road and said,"It might have been...me!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“我说……”沈萤掀开被子，眉头紧皱，“你们能不能安静点？”很晚了的说。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="hui lin" changedate="20181121T143346Z" creationid="hui lin" creationdate="20181121T143346Z">
+        <seg>"I said..."Chen Ying lifted her blanket, brows wrinkled. "Could you all keep quiet? It's already so late."</seg>
       </tuv>
     </tu>
     <tu>
@@ -13293,6 +13317,14 @@ At the moment of impact, that martial artist at the third stage of the Cast Trip
       </tuv>
       <tuv lang="EN-US" changeid="annieyeo" changedate="20181121T134552Z" creationid="annieyeo" creationdate="20181121T134552Z">
         <seg>Chen Ying sulked slightly. She cleared her throat and said seriously "That is not why. The black-clothed one left many holes in the courtyard the last time. I'm just trying to even out the land. "</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>沈萤皱起了眉……我的院子。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="hui lin" changedate="20181121T143106Z" creationid="hui lin" creationdate="20181121T143106Z">
+        <seg>Chen Ying furrowed her eyebrows....My courtyard...</seg>
       </tuv>
     </tu>
     <tu>
