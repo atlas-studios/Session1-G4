@@ -40,8 +40,8 @@
       <tuv lang="ZH-CN">
         <seg>“……”叫妖王来修房子！</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="hui lin" changedate="20181121T162529Z" creationid="hui lin" creationdate="20181121T162529Z">
-        <seg>"..."Call the demon king to fix the house!</seg>
+      <tuv lang="EN-US" changeid="hui lin" changedate="20181121T163344Z" creationid="hui lin" creationdate="20181121T162529Z">
+        <seg>"..."Call the demon king just to fix the house!</seg>
       </tuv>
     </tu>
     <tu>
@@ -1435,6 +1435,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="tianqi" changedate="20181028T151704Z" creationid="tianqi" creationdate="20181028T151704Z">
         <seg>"Oh, okay!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“哦，我叫它们来帮个忙。”沈萤指向后面的小茅屋，“我这屋子，那天不是被劈了大半吗？我又不会修，好在这几天没下雨，勉强凑合了一下。兔子说它会，所以我就叫它来帮忙修房子了。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="hui lin" changedate="20181121T163341Z" creationid="hui lin" creationdate="20181121T163341Z">
+        <seg>"Oh, I called them to help out." Chen Ying pointed to the thatch house at the back. "My house, didn't it collapse into half that time? I don't know how to fix it, and luckily there hasn't been rain recently. So I reluctantly gathered them. The rabbits said they know how, so I called them to help fix the house."</seg>
       </tuv>
     </tu>
     <tu>
