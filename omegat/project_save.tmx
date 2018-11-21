@@ -118,10 +118,34 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“上仙慢走！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="annieyeo" changedate="20181121T103055Z" creationid="annieyeo" creationdate="20181121T103055Z">
+        <seg>"Take care Exalted Immortal!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“上仙放心，它们都是素食妖类。”兔王简直不敢相信，她居然这么好说话，而且好像还……挺客气，“那就这么说定了，明日开始我就给上仙送食材。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="annieyeo" changedate="20181121T103421Z" creationid="annieyeo" creationdate="20181121T103421Z">
+        <seg>"Please rest assured Exalted Immortal. They are all vegetarian demons." Rabbit Monarch could not believe it. She was actually so reasonable, and she actually seemed pretty polite. "So that settles it. From tomorrow onwards, I will deliver food to you, Exalted Immortal." "</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“上仙饶命，上仙饶命，我错了，是我等有眼不识泰山，犯冒了上仙。”兔王泪水鼻涕糊了一脸，硕大的兔头嗑得那叫一个卖力，整个身子抖得兔毛都一浪接一浪的。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="annieyeo" changedate="20181121T075354Z" creationid="annieyeo" creationdate="20181121T072257Z">
         <seg>"Exalted Immortal please forgive me, I was wrong. I failed to recognize a formidable person. I have sinned against the Immortal King." Rabbit Monarch face was full of tears and mucus as trembled and continued to kowtow with great force.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“上仙！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="annieyeo" changedate="20181121T103036Z" creationid="annieyeo" creationdate="20181121T103036Z">
+        <seg>"Exalted Immortal!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -274,6 +298,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="cktal" changedate="20180813T090651Z" creationid="USER" creationdate="20180811T082915Z">
         <seg>"No! Definitely not !"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“不辛苦。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="annieyeo" changedate="20181121T103126Z" creationid="annieyeo" creationdate="20181121T103126Z">
+        <seg>"No problem."</seg>
       </tuv>
     </tu>
     <tu>
@@ -554,6 +586,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180817T022121Z" creationid="Joey" creationdate="20180817T022121Z">
         <seg>"I'll try it again!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“再见。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="annieyeo" changedate="20181121T103043Z" creationid="annieyeo" creationdate="20181121T103043Z">
+        <seg>"Bye."</seg>
       </tuv>
     </tu>
     <tu>
@@ -3013,10 +3053,26 @@ Jiang Yi had no desire to stir up trouble, but Jiang Bao clearly had no desire t
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“沈上仙慢走……”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="annieyeo" changedate="20181121T103029Z" creationid="annieyeo" creationdate="20181121T103029Z">
+        <seg>"Take care Exalted Immortal Chen..." "</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“沙沙沙……”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180807T152939Z" creationid="Joey" creationdate="20180807T152939Z">
         <seg>“Shh-shh-shh…”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“没事的话，我先回去睡觉了。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="annieyeo" changedate="20181121T103116Z" creationid="annieyeo" creationdate="20181121T103116Z">
+        <seg>"If there's nothing else, I'm going back to sleep."</seg>
       </tuv>
     </tu>
     <tu>
@@ -3635,6 +3691,22 @@ Jiang Yi recalled the sequence of events that had taken place in the morning. Hi
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180905T065347Z" creationid="USER" creationdate="20180803T073510Z">
         <seg>"Boom!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“辛苦你了。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="annieyeo" changedate="20181121T103139Z" creationid="annieyeo" creationdate="20181121T103139Z">
+        <seg>"Thank you for the hard work."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“还不知您的称号是？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="annieyeo" changedate="20181121T102930Z" creationid="annieyeo" creationdate="20181121T102930Z">
+        <seg>"How should I address you?"</seg>
       </tuv>
     </tu>
     <tu>
