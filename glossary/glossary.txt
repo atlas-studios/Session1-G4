@@ -1010,3 +1010,4 @@
 鹰王	eagle demon king
 虎王	tiger demon king
 虎王	tiger demon king
+兔王	Rabbit Monarch
