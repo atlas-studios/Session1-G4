@@ -574,6 +574,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“你到是有善心。”芮糜不屑，朝沈萤走了过去，“自己都这样了，还想救人！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="hui lin" changedate="20181121T152301Z" creationid="hui lin" creationdate="20181121T152301Z">
+        <seg>"You are kind." Rui Mi, scornful, walked towards Chen Ying. "You're already in this state and you still want to save others!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“你吃了我，也没必要白跑一趟啊？”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="hui lin" changedate="20181120T143404Z" creationid="hui lin" creationdate="20181120T143404Z">
@@ -640,8 +648,8 @@
       <tuv lang="ZH-CN">
         <seg>“你！姑娘，快跑啊！她不是好人！”地上的人拼命想爬过来，却完全阻止不了芮糜的脚步，只能一声比一声大的让人快跑。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="hui lin" changedate="20181121T143151Z" creationid="hui lin" creationdate="20181121T143151Z">
-        <seg>"You! Quick, maiden, run away! She is not a good person!"</seg>
+      <tuv lang="EN-US" changeid="hui lin" changedate="20181121T152530Z" creationid="hui lin" creationdate="20181121T143151Z">
+        <seg>"You! Quick, maiden, run away! She is not a good person!" The people on the ground wanted to struggle over to help, but were completely stopped in their tracks by Rui Mi. They could only shout louder to tell to run.</seg>
       </tuv>
     </tu>
     <tu>
@@ -986,6 +994,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="USER" changedate="20180804T031608Z" creationid="USER" creationdate="20180804T031608Z">
         <seg>"Ping!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“呵呵……”他笑得更深，“我的噬魂幡可不嫌弃凡人的魂魄。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="hui lin" changedate="20181121T152418Z" creationid="hui lin" creationdate="20181121T152418Z">
+        <seg>"Hehe..." He smiled. "My soul eater does not despise human souls."</seg>
       </tuv>
     </tu>
     <tu>
