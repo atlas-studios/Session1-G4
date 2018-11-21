@@ -2811,6 +2811,14 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“敢问恩人芳名？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="annieyeo" changedate="20181121T140339Z" creationid="annieyeo" creationdate="20181121T140339Z">
+        <seg>"Saviour, may I ask for your name?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“族人的妖魂在上，我等誓报此仇。”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="hui lin" changedate="20181120T124822Z" creationid="hui lin" creationdate="20181120T124517Z">
@@ -3241,6 +3249,14 @@ Jiang Yi had no desire to stir up trouble, but Jiang Bao clearly had no desire t
       </tuv>
       <tuv lang="EN-US" changeid="annieyeo" changedate="20181121T125341Z" creationid="annieyeo" creationdate="20181121T125341Z">
         <seg>"Exalted Immortal Chen, I'm back! These are the most delicious food in the demonic realm, come check it out!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“沈萤。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="annieyeo" changedate="20181121T140401Z" creationid="annieyeo" creationdate="20181121T140401Z">
+        <seg>"Chen Ying."</seg>
       </tuv>
     </tu>
     <tu>
@@ -7087,6 +7103,14 @@ Additionally, once his sense of smell became stronger, he was able to smell even
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180818T094222Z" creationid="Joey" creationdate="20180818T094222Z">
         <seg>Upon hearing of this information, Jiang Yi was at a complete state of shock and loss, his face filled with remorse and anxiety. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>咦？沈萤一呆，她有救过吗？</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="annieyeo" changedate="20181121T140313Z" creationid="annieyeo" creationdate="20181121T140313Z">
+        <seg>Eh? Chen Ying was confused, had she saved him?</seg>
       </tuv>
     </tu>
     <tu>
