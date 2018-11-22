@@ -7775,6 +7775,14 @@ with the time that the elixir medical efficacy lasted also having extended up to
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>在院里的石椅上坐下，身体前倾，习惯性像摊烂泥一样趴在了石桌上。算了，既然不用帮忙，她也懒得动。阳光这么好，最适合……睡觉了。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="hui lin" changedate="20181122T051806Z" creationid="hui lin" creationdate="20181122T051806Z">
+        <seg>She sat down on a stone bench in the courtyard, body leaned forward, sprawled on the stone table like like a puddle of mud, just her old habits. Whatever, since she wasn't helping out anymore, might as well laze around and do nothing. The sunlight feels so warm, such a good time...for napping.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>地上十四五岁的小丫头也惊醒过来，看到暴怒冲来的江逸，一张小脸完全吓坏了，拼命的大喊起来：“少爷你不是他的对手，别管我，快走！”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20180825T014436Z" creationid="USER" creationdate="20180807T125726Z">
@@ -15780,8 +15788,8 @@ Regardless of whether Jiang Yi was only suited to practice the lowest level of m
       <tuv lang="ZH-CN">
         <seg>说完转身走回了院子，觉得有点扎心，她有这么可怕吗？</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="hui lin" changedate="20181121T164108Z" creationid="hui lin" creationdate="20181121T164108Z">
-        <seg>After finishing speaking,</seg>
+      <tuv lang="EN-US" changeid="hui lin" changedate="20181122T051129Z" creationid="hui lin" creationdate="20181121T164108Z">
+        <seg>After finishing speaking, Chen Ying felt slightly uneasy. Was she that scary?</seg>
       </tuv>
     </tu>
     <tu>
