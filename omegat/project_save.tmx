@@ -1827,6 +1827,14 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“唰——”一辆奢华的跑车，稳稳的停在摩天大厦的门口。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="annieyeo" changedate="20181123T051730Z" creationid="annieyeo" creationdate="20181123T051730Z">
+        <seg>"Swish--" a luxurious sports car came to a steady stop at the entrance of the skyscraper. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“唰！唰！唰！”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180922T101804Z" creationid="Joey" creationdate="20180922T101804Z">
@@ -9708,8 +9716,8 @@ Jiang Yi's mood immediately improved significantly when he realized this. So lon
       <tuv lang="ZH-CN">
         <seg>所有员工，整齐的站成两列，迎接boss的到来。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="hui lin" changedate="20181123T051452Z" creationid="hui lin" creationdate="20181123T051452Z">
-        <seg>All employees </seg>
+      <tuv lang="EN-US" changeid="annieyeo" changedate="20181123T051540Z" creationid="annieyeo" creationdate="20181123T051540Z">
+        <seg>All the staff members were lined neatly in two rows, ready to welcome the Boss upon his arrival.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17526,6 +17534,14 @@ Despite coming up with so many ideas, the seal neither loosened nor changed. Yet
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20180825T005411Z" creationid="USER" creationdate="20180803T073404Z">
         <seg>The huge skeleton giant struck down with the force of a million pounds upon the dome formed by the runic halos. In a blink of an eye, it was reduced to dust from the aftershock, but the shield did not sway a single bit. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>高耸入天的的摩天大厦，屹立在H市寸土寸金的金融中心，睥睨一切。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="annieyeo" changedate="20181123T051501Z" creationid="annieyeo" creationdate="20181123T051501Z">
+        <seg>The towering skyscraper stood inch for inch in H City's center, peering over it. </seg>
       </tuv>
     </tu>
     <tu>
